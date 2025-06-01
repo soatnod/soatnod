@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soatnod
-- 👀 I’m interested in all things technical.
+- 👀 I’m interested in all things tech.
 - 🌱 I’m currently learning info-tech & artificial intelligence.
 - 💞️ I’m looking to collaborate on really anything.
 - 📫 How to reach me: on github.
