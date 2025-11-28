@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @soatnod
-- 👀 I’m interested in all things tech.
-- 🌱 I’m currently learning info-tech & artificial intelligence.
-- 💞️ I’m looking to collaborate on really anything.
-- 📫 How to reach me: on github.
-- 😄 Pronouns: him.
-- ⚡ Fun fact: wooting keyboards are the best. 
+Woah, look who it is. Someone unlucky enough to stumble upon this page. 
+Look, I have no idea what you're here for. There really shouldn't be anything interesting here. How you even managed to reach this place is out of my wildest imaginations. 
+Why are you still here. Just leave already. Go watch some youtube shorts or something. Or if you don't enjoy rotting your brain with it, read a book i guess.
+Speaking of books, why don't you try this LN that i've been reading for the past months. it's called "Mushoku Tensei". If you're not a fan of anime culture though, just leave. Really. 
+
+
 
 <!---
 soatnod/soatnod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
